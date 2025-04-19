@@ -2,7 +2,7 @@
 ## Google Stock Price Prediction
 
 
-Stock prices are highly volatile and influenced by various factors, making accurate prediction a major challenge in investment decisions.  
+Stock prices are highly volatile and influenced by various factors, making accurate prediction a major challenge in investment decisions. This project aims to predict Google stock prices using RNN, LSTM, GRU, and BiDirectional LSTM, comparing their performance using RMSE. The dataset includes Alphabet Inc. (GOOG) daily stock prices from 2013 to January 2024.   
 
 Goals:  
 - This project aims to predict Google stock prices using RNN, LSTM, GRU, and BiDirectional LSTM, comparing their performance using RMSE.
